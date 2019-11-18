@@ -17,8 +17,9 @@ Bilangan acak yang dibangkitkan oleh komputer adalah bilangan acak semu (pseudo 
   - Perulangan i dengan nilai awal variabel start, nilai akhir variabel
   
   *Contoh Gambar
-  ![input end]
+  ![latihan1](https://github.com/devinovitasari99/labpy03/blob/master/gambar/latihan1.PNG)
   * Contoh Gambar Hasil Run
+  ![Run1](https://github.com/devinovitasari99/labpy03/blob/master/gambar/Run1.PNG)
 
 #Latihan2
 #Menampilkan Bilangan Terbesear
@@ -35,10 +36,10 @@ Bilangan acak yang dibangkitkan oleh komputer adalah bilangan acak semu (pseudo 
 -Fungsi yang akan menghentikan operasi dibawahnya yaitu jika suatu kondisi ditentukan telah tercapai
 
 #Mencetak bilangan terbesar
-
+ ![latihan2](https://github.com/devinovitasari99/labpy03/blob/master/gambar/latihan2.PNG)
 #Masukkan angka 0 untuk berhenti
 *contoh gambar Run
-
+ ![Run3](https://github.com/devinovitasari99/labpy03/blob/master/gambar/Run3.PNG)
 #Program1
 
 #Program sederhana perulangan
@@ -49,6 +50,6 @@ Modal awal 100.000.000, pada bulan pertama dan bulan kedua belum mendaparkan lab
 laba sebesar 1% dan pada bulan ke 5 pendapatan meningkat  5%. Hitunglahtotal keuntungan selama 5 bulan berjalan usahanya.
 
 - Contoh gambar
-
-- Contoh hasil Run# labpy03
-# labpy03
+![program1](https://github.com/devinovitasari99/labpy03/blob/master/gambar/program1.PNG)
+- Contoh hasil Run
+![Run2](https://github.com/devinovitasari99/labpy03/blob/master/gambar/Run2.PNG)
