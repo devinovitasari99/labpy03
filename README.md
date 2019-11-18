@@ -1,6 +1,6 @@
 # labspy03
-##Latihan1
-##Random
+#Latihan1
+#Random
   Bilangan acak (Random) adalah bilangan yang munculnya terjadi secara acak.
 Bilangan acak yang dibangkitkan oleh komputer adalah bilangan acak semu (pseudo random number), bilangan acak iniuntuk keperluan simulasi. Berikut ini adalah contoh bilangan bilangan acak (Random) yang lebih kecil:
 
@@ -16,9 +16,13 @@ Bilangan acak yang dibangkitkan oleh komputer adalah bilangan acak semu (pseudo 
   - Perulangan i dengan nilai awal variabel start, nilai akhir variable stop dan ster variabel step 
   - Perulangan i dengan nilai awal variabel start, nilai akhir variabel
   
+
   *Contoh Gambar
+
   ![latihan1](https://github.com/devinovitasari99/labpy03/blob/master/gambar/latihan1.PNG)
+
   * Contoh Gambar Hasil Run
+
   ![Run1](https://github.com/devinovitasari99/labpy03/blob/master/gambar/Run1.PNG)
 
 #Latihan2
@@ -36,10 +40,15 @@ Bilangan acak yang dibangkitkan oleh komputer adalah bilangan acak semu (pseudo 
 -Fungsi yang akan menghentikan operasi dibawahnya yaitu jika suatu kondisi ditentukan telah tercapai
 
 #Mencetak bilangan terbesar
+
  ![latihan2](https://github.com/devinovitasari99/labpy03/blob/master/gambar/latihan2.PNG)
+
 #Masukkan angka 0 untuk berhenti
+
 *contoh gambar Run
- ![Run3](https://github.com/devinovitasari99/labpy03/blob/master/gambar/Run3.PNG)
+ 
+![Run3](https://github.com/devinovitasari99/labpy03/blob/master/gambar/Run3.PNG)
+
 #Program1
 
 #Program sederhana perulangan
@@ -50,6 +59,9 @@ Modal awal 100.000.000, pada bulan pertama dan bulan kedua belum mendaparkan lab
 laba sebesar 1% dan pada bulan ke 5 pendapatan meningkat  5%. Hitunglahtotal keuntungan selama 5 bulan berjalan usahanya.
 
 - Contoh gambar
+
 ![program1](https://github.com/devinovitasari99/labpy03/blob/master/gambar/program1.PNG)
+
 - Contoh hasil Run
+
 ![Run2](https://github.com/devinovitasari99/labpy03/blob/master/gambar/Run2.PNG)
